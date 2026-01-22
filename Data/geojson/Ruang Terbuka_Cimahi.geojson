@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Ruang Terbuka_Cimahi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32748" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Nama": "Lapangan Pusdikjas", "Kategori": "Trek atletik" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 781053.768835958791897, 9237797.717425022274256 ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Nama": "Brigif Inner Field", "Kategori": "Trek atletik" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 779475.506565209710971, 9237383.122976174578071 ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Nama": "Brigif Outer Field", "Kategori": "Trek aspal" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 779522.213983748806641, 9237489.014468679204583 ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "Nama": "Lapangan Tembak", "Kategori": "Trek aspal" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 779224.900952553376555, 9238764.924674160778522 ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "Nama": "Alun-alun Cimahi", "Kategori": "Taman" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 780965.522805575048551, 9239525.422417720779777 ] ] } },
+{ "type": "Feature", "properties": { "id": 6, "Nama": "Lapangan Sangkuriang", "Kategori": "Trek atletik" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 780331.173947275849059, 9239998.499248016625643 ] ] } },
+{ "type": "Feature", "properties": { "id": 7, "Nama": "Lapangan Pussen Arhanud", "Kategori": "Trek atletik" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 780291.4007416612003, 9238785.266450801864266 ] ] } },
+{ "type": "Feature", "properties": { "id": 8, "Nama": "Taman Aruman", "Kategori": "Taman" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 782956.853525564540178, 9238475.854799019172788 ] ] } },
+{ "type": "Feature", "properties": { "id": 9, "Nama": "Jogging Track PPPTK BMTI", "Kategori": "Trek aspal" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 783210.982515414943919, 9238987.447380315512419 ] ] } },
+{ "type": "Feature", "properties": { "id": 10, "Nama": "Lapangan Bola Pusdikarmed", "Kategori": "Trek atletik" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 780124.399405415751971, 9237485.117963992059231 ] ] } },
+{ "type": "Feature", "properties": { "id": 11, "Nama": "Taman Kartini", "Kategori": "Taman" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 780344.487992519279942, 9237849.813539879396558 ] ] } },
+{ "type": "Feature", "properties": { "id": 12, "Nama": "Taman Dustira", "Kategori": "Taman" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 780213.703501638723537, 9237891.361734306439757 ] ] } },
+{ "type": "Feature", "properties": { "id": 13, "Nama": "Taman Brigif", "Kategori": "Taman" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 779949.240912507520989, 9237910.348371561616659 ] ] } },
+{ "type": "Feature", "properties": { "id": 14, "Nama": "Puncak Salam", "Kategori": "Hiking" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 779183.803903902880847, 9234966.181829625740647 ] ] } },
+{ "type": "Feature", "properties": { "id": 15, "Nama": "Gunung Padakasih", "Kategori": "Hiking" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 777544.267678915173747, 9236456.917488656938076 ] ] } },
+{ "type": "Feature", "properties": { "id": 16, "Nama": "Gunung Bohong", "Kategori": "Hiking" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 778532.965471438365057, 9239165.722803547978401 ] ] } },
+{ "type": "Feature", "properties": { "id": 17, "Nama": "Taman Pemkot Cimahi", "Kategori": "Taman" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 782213.184011704521254, 9239796.857427818700671 ] ] } },
+{ "type": "Feature", "properties": { "id": 18, "Nama": "Lapangan Poral", "Kategori": "Trek atletik" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 778732.644059083424509, 9236194.455136999487877 ] ] } }
+]
+}
